@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "776691819541",
+    "firebase_url": "https://sutfriend-b8197.firebaseio.com",
+    "project_id": "sutfriend-b8197",
+    "storage_bucket": "sutfriend-b8197.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776691819541:android:3f3bffdcb5e62215",
+        "android_client_info": {
+          "package_name": "masterung.androidthai.in.th.sutfriend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776691819541-tf6vfpg2scunb3tae3v8v85v3pilhgba.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "masterung.androidthai.in.th.sutfriend",
+            "certificate_hash": "8df8c627b66b47230ee9202947e939193fa0fe3c"
+          }
+        },
+        {
+          "client_id": "776691819541-nqp6bfn68l4hj2equ2ta0a78ddla2443.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWmGVTXAxO4TH5O_byj48jTIaf2ui41hU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776691819541-nqp6bfn68l4hj2equ2ta0a78ddla2443.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
